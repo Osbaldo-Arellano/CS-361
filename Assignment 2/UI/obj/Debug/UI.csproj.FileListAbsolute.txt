@@ -1,0 +1,6 @@
+/home/ozzy/CS361/Assignment 2/UI/bin/Debug/UI.exe
+/home/ozzy/CS361/Assignment 2/UI/bin/Debug/UI.pdb
+/home/ozzy/CS361/Assignment 2/UI/obj/Debug/UI.csproj.AssemblyReference.cache
+/home/ozzy/CS361/Assignment 2/UI/obj/Debug/UI.csproj.CoreCompileInputs.cache
+/home/ozzy/CS361/Assignment 2/UI/obj/Debug/UI.exe
+/home/ozzy/CS361/Assignment 2/UI/obj/Debug/UI.pdb

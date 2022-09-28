@@ -1,0 +1,6 @@
+/home/ozzy/CS361/Assignment 2/Image Service/bin/Debug/Image_Service.dll
+/home/ozzy/CS361/Assignment 2/Image Service/bin/Debug/Image_Service.pdb
+/home/ozzy/CS361/Assignment 2/Image Service/obj/Debug/Image Service.csproj.AssemblyReference.cache
+/home/ozzy/CS361/Assignment 2/Image Service/obj/Debug/Image Service.csproj.CoreCompileInputs.cache
+/home/ozzy/CS361/Assignment 2/Image Service/obj/Debug/Image_Service.dll
+/home/ozzy/CS361/Assignment 2/Image Service/obj/Debug/Image_Service.pdb

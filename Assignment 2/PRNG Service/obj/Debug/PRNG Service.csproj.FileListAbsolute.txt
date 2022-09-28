@@ -1,0 +1,6 @@
+/home/ozzy/CS361/Assignment 2/PRNG Service/bin/Debug/PRNG_Service.dll
+/home/ozzy/CS361/Assignment 2/PRNG Service/bin/Debug/PRNG_Service.pdb
+/home/ozzy/CS361/Assignment 2/PRNG Service/obj/Debug/PRNG Service.csproj.AssemblyReference.cache
+/home/ozzy/CS361/Assignment 2/PRNG Service/obj/Debug/PRNG Service.csproj.CoreCompileInputs.cache
+/home/ozzy/CS361/Assignment 2/PRNG Service/obj/Debug/PRNG_Service.dll
+/home/ozzy/CS361/Assignment 2/PRNG Service/obj/Debug/PRNG_Service.pdb
